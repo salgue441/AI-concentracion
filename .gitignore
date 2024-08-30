@@ -21,3 +21,5 @@
 
 # Jupyter Notebook output
 *.nbconvert.ipynb
+
+.venv
