@@ -1,0 +1,23 @@
+# Data files
+*.csv
+*.dat
+*.pkl
+*.npy
+*.h5
+
+# Model files
+*.pth
+*.onnx
+*.pb
+
+# Logs
+*.log
+
+# Temporary files
+*.bak
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook output
+*.nbconvert.ipynb
