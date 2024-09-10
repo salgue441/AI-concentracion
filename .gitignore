@@ -3,11 +3,13 @@
 *.dat
 *.pkl
 *.h5
+*.npy
 
 # Model files
 *.pth
 *.onnx
 *.pb
+*.pt
 
 # Logs
 *.log
