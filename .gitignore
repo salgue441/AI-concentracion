@@ -2,7 +2,6 @@
 *.csv
 *.dat
 *.pkl
-*.npy
 *.h5
 
 # Model files
